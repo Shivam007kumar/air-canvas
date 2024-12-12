@@ -1,6 +1,3 @@
-# air-canvas
-An Interactive Virtual Whiteboard that uses hand gestures detected via webcam to draw, erase, and interact in real-time, with customizable colors, brush sizes, and save/undo functionality
-
 # Hand Gesture Controlled Whiteboard
 
 This project is a hand gesture-controlled digital whiteboard using OpenCV and MediaPipe. Users can draw, erase, and interact with a whiteboard through webcam-detected hand movements.
@@ -18,7 +15,20 @@ This project is a hand gesture-controlled digital whiteboard using OpenCV and Me
 - MediaPipe
 - NumPy
 
-
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/username/whiteboard-drawing.git
+    cd whiteboard-drawing
+    ```
+2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. Run the application:
+    ```bash
+    python main.py
+    ```
 
 ## Controls
 - **Draw**: Move your hand.
@@ -31,3 +41,8 @@ This project is a hand gesture-controlled digital whiteboard using OpenCV and Me
 - **Pause/Resume Drawing**: Press `Space`.
 - **Exit**: Press `Q`.
 
+## Example Output
+![Sample Output](examples/sample_output.png)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -31,8 +31,3 @@ This project is a hand gesture-controlled digital whiteboard using OpenCV and Me
 - **Pause/Resume Drawing**: Press `Space`.
 - **Exit**: Press `Q`.
 
-## Example Output
-![Sample Output](examples/sample_output.png)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

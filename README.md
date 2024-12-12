@@ -15,20 +15,7 @@ This project is a hand gesture-controlled digital whiteboard using OpenCV and Me
 - MediaPipe
 - NumPy
 
-## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/username/whiteboard-drawing.git
-    cd whiteboard-drawing
-    ```
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the application:
-    ```bash
-    python main.py
-    ```
+
 
 ## Controls
 - **Draw**: Move your hand.

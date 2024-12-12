@@ -42,7 +42,7 @@ This project is a hand gesture-controlled digital whiteboard using OpenCV and Me
 - **Exit**: Press `Q`.
 
 ## Example Output
-![Sample Output](examples/sample_output.png)
+![Sample Output](sample_output.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
